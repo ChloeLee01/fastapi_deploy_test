@@ -1,0 +1,5 @@
+# 가상환경 활성화
+conda activate D:\Chloe\python\chatbot_agent\env
+
+# requirements.txt 설치
+pip install -r requirements.txt
